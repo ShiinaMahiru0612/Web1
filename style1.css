@@ -46,6 +46,7 @@ body::before {
 }
 .firstlineinfo p {
     margin: 0;
+    font-size: 20px;
 }
 hr {
     border-radius: 100%;
