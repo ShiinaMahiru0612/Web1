@@ -1,13 +1,10 @@
+html, body {
+    overflow-x: hidden;
+}
 body {
     background: url(background.jpeg) no-repeat center center fixed;
     background-size: cover;
     color: white;
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
-}
-* {
-    max-width: 100%;
 }
 body::-webkit-scrollbar {
     display: none;
