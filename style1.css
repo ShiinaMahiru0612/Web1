@@ -31,7 +31,7 @@ body::before {
     width: 50%;
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    padding: auto;
+    margin: auto;
 }
 .avt{
     position: relative;
