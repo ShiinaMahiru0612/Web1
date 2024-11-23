@@ -1,4 +1,7 @@
-
+html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
 body {
     background: url(background.jpeg) no-repeat center center fixed;
     background-size: cover;
