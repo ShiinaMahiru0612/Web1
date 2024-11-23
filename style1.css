@@ -7,6 +7,7 @@ body {
     background-size: cover;
     color: white;
     overflow-x:hidden;
+    overflow-y:visible;
 }
 body::-webkit-scrollbar {
     display: none;
