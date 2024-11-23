@@ -6,7 +6,7 @@ body {
     background: url(background.jpeg) no-repeat center center fixed;
     background-size: cover;
     color: white;
-    overflow:hidden;
+    overflow-x:hidden;
 }
 body::-webkit-scrollbar {
     display: none;
